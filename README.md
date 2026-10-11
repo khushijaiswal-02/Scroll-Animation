@@ -25,7 +25,6 @@ npm run dev
 
 ## Links
 - **Live Demo:** Add your deployed website URL
-- **GitHub Repository:** Add your repository URL
 
 ## Author
 Khushi Jaiswal
