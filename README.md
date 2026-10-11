@@ -24,7 +24,7 @@ npm run dev
 ```
 
 ## Links
-- **Live Demo:** Add your deployed website URL
+- **Live Demo:** https://khushijaiswal-02.github.io/Scroll-Animation/
 
 ## Author
 Khushi Jaiswal
